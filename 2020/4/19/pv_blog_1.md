@@ -1,6 +1,6 @@
 <!--
 2020-04-19 20:09:53
-https://ae01.alicdn.com/kf/Haf4d3b0529ba47669bf69c7bfc71a5f1Y.png
+https://ae01.alicdn.com/kf/Hb3505621d84a4f8cb125c2910c6991d5M.png
 机器学习
 卷积神经网络学习
 神经网络，包含传统BP神经网络、卷积神经网络等

@@ -1,6 +1,6 @@
 <!--
 2020-04-22 15:26:01
-https://ae01.alicdn.com/kf/Haf4d3b0529ba47669bf69c7bfc71a5f1Y.png
+https://ae01.alicdn.com/kf/Hf111b2be3fcf4f5681042025bad26905E.png
 python
 Numpy的基本使用
 numpy是基于C开发的，常用于机器学习中矩阵运算，运算效率很高

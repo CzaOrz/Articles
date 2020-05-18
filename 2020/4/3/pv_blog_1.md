@@ -1,6 +1,6 @@
 <!--
 2020-04-07 12:59:02
-https://ae01.alicdn.com/kf/Haf4d3b0529ba47669bf69c7bfc71a5f1Y.png
+https://ae01.alicdn.com/kf/H6afaf3902644461a866e1e09bf6004480.png
 前端
 javascript基础
 javascript原生的一些知识点，虽然比较简单，但是学习基础是很重要的

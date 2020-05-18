@@ -1,6 +1,6 @@
 <!--
 2020-04-25 11:23:58
-https://ae01.alicdn.com/kf/Haf4d3b0529ba47669bf69c7bfc71a5f1Y.png
+https://ae01.alicdn.com/kf/Hbc64650c7cb14bedaf0ba3d40b87e26aQ.png
 前端
 javascript基础（一）
 javascript的数据类型与变量的基础用法
